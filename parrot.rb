@@ -7,4 +7,5 @@ end
 
 parrot
 
-phrase=
+def parrot
+  
