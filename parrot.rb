@@ -6,3 +6,5 @@ def parrot
 end
 
 parrot
+
+phrase=
