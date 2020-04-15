@@ -7,8 +7,8 @@ end
 
 parrot
 
-def parrot("Squawk!")
-  return "Squawk!"
+def parrot(bird)
+  puts "Squawk!"
 end
 
 parrot
