@@ -8,7 +8,7 @@ end
 parrot
 
 def parrot
-  phrase="Squawk!"
+  phrase = "Squawk!"
 end
 
 parrot
