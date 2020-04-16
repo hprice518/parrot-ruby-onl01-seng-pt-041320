@@ -25,5 +25,10 @@ def parrot(phrase = "Squawk!")
   new_phrase = "Pretty bird!"
 end
 
+parrot ("Squawk!")
+parrot()
+
+
+
 
 
