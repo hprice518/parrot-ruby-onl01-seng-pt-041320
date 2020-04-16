@@ -10,5 +10,5 @@ def parrot(phrase = "Squawk!")
 end
 
 parrot("Hey")
-Parrot()
+parrot()
 
