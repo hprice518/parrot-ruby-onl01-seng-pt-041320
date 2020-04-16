@@ -20,5 +20,5 @@ end
 parrot("Squawk!")
 parrot()
 
-
+def parrot(phrase = "Squ")
 
