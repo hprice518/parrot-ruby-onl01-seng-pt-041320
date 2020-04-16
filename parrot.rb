@@ -12,8 +12,9 @@ end
 parrot("Hey")
 parrot()
 
-def parrot(phrase ="Squawk!")
-  puts "Squawk!"
+def parrot(phrase = "Squawk!")
+  puts phrase
+  new_phrase = "Pretty bird!"
 end
 
 parrot("Pretty bird!")
