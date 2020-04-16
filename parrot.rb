@@ -12,3 +12,10 @@ end
 parrot("Hey")
 parrot()
 
+def parrot(phrase ="Squawk!")
+  puts "Squawk!"
+end
+
+parrot("Pretty bird!")
+parrot()
+
